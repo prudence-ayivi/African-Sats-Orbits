@@ -5,7 +5,7 @@ const viz = new Spacekit.Simulation(document.getElementById('main-container'), {
 //  jdDelta: 10.0,
 //  jdPerSecond: 100.0,  // overrides jdDelta
 //  startPaused: false,
- unitsPerAu: 0.74,
+ unitsPerAu: 0.745,
  maxNumParticles: 2**16,
     camera: {
       initialPosition: [3, 2, 1],
